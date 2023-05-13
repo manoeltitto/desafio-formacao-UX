@@ -1,7 +1,7 @@
 # Desafio-formacao-UX
 Criando um Wireframe de Média Fidelidade - Desafio de Projeto - UX
 
-Neste repositório está minha contribuição para a construção de um site de uma página
+Contribuição para a construção de um website de uma página
 
 ### Titulo da Página:Robótica + Maker + Diversão
 #### <a href="https://www.figma.com/file/WATb1zYjNpBTBJbLaudWiz/Wireframe---desafio-UX-DIO?type=design&node-id=0%3A1&t=EBLrpWIoH9zdKAv5-1">LINK DE ACESSO AO WIREFRAME</a>
@@ -9,18 +9,18 @@ Neste repositório está minha contribuição para a construção de um site de 
 
 Foi definido um design minimalista com poucos elementos.
 
-Uso de Menu de navegação não foi considerado por ser um site de uma única página
-Será dividido em quatro secçoes:
+Uso de Menu de navegação não foi considerado por ser um site de uma única página.
+Será dividido em quatro secções:
 
-*1 - cabeçaho com Título do Website;
+*1 - Cabeçalho com Título do Website;
 
-*2 - corpo do Website com três fotos encaixadas em molduras circulares e legedas;
+*2 - Corpo do Website com três fotos encaixadas em molduras circulares e legedas;
 
-  *2.1 uma citação em destaque "Criatividade é a inteligência se divertindo"
+  *2.1 Citação em destaque "Criatividade é a inteligência se divertindo!"
   
-*3 - secção com fotos em carrocel de imagens de atividades realizadas;
+*3 - Secção com fotos em carrocel de imagens das atividades realizadas;
 
-*4- secção de rodapé com links para acessar.
+*4- Secção de rodapé com links para contato e outras informações.
 
      CONTATOS | TELEFONES | REDES SOCIAIS autoria do website.
 
