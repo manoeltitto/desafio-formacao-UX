@@ -5,8 +5,10 @@ Neste repositório está minha contribuição para a construção de um site de 
 
 ### Titulo da Página
 ### Robótica + Maker + Diversão
-#### [LINK DE ACESSO DO WIREFRAME <https://www.figma.com/file/WATb1zYjNpBTBJbLaudWiz/Wireframe---desafio-UX-DIO?type=design&node-id=0%3A1&t=EBLrpWIoH9zdKAv5-1>].
-É sugerido um design minimalista com poucos elementos.
+#### [<a href="hhttps://www.figma.com/file/WATb1zYjNpBTBJbLaudWiz/Wireframe---desafio-UX-DIO?type=design&node-id=0%3A1&t=EBLrpWIoH9zdKAv5-1">LINK DE ACESSO AO WIREFRAME</a>
+
+
+Foi definido um design minimalista com poucos elementos.
 
 Uso de Menu de navegação não foi considerado por ser um site de uma única página
 Será dividido em quatro secçoes:
